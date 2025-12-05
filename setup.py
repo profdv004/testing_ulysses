@@ -19,7 +19,7 @@ setup(
     'tqdm', 
     'numba',
     'pandas',
-    'mpmath'
+    'mpmath',
     # 'mpi4py'
   ],
   python_requires='>3.6.0',
