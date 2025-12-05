@@ -16,8 +16,10 @@ setup(
     'progressbar',
     'python-dateutil',
     'termcolor',
-    'tqdm'  
-    # 'numba',
+    'tqdm', 
+    'numba',
+    'pandas',
+    'mpmath'
     # 'mpi4py'
   ],
   python_requires='>3.6.0',
